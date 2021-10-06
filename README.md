@@ -18,3 +18,12 @@ https://github.com/bbeuro132/GameSellSimulator
 
 <h3>jsp</h3>
 https://github.com/bbeuro132/JSP_PageProject
+
+
+# 팀 프로젝트 리포지토리
+
+<h3>python</h3>
+https://github.com/bbeuro132/Python-Team-Project
+
+<h3>c# & oracle</h3>
+https://github.com/bbeuro132/OracleTeamProject
